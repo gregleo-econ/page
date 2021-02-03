@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on Greg Leo</title>
+    <link>https://gregleo-econ.github.io/teaching/</link>
+    <description>Recent content in Teachings on Greg Leo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 21:46:17 -0600</lastBuildDate><atom:link href="https://gregleo-econ.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Econ 3012 (Int. Micro)</title>
+      <link>https://gregleo-econ.github.io/teaching/econ3012/</link>
+      <pubDate>Sun, 31 Jan 2021 21:46:17 -0600</pubDate>
+      
+      <guid>https://gregleo-econ.github.io/teaching/econ3012/</guid>
+      <description>Intro This is the course website for Vanderbilt Economics 3012. This course focuses on the formal analysis of the behavior of individuals and firms and how these behaviors aggregate in a market. We will analyze market performance and determine how performance is influenced by various changes. This page will be continuously updated throughout the semester. Please check it on a regular basis. Consider subscribing to changes using a service such as Visual Ping or Wachete.</description>
+    </item>
+    
+    <item>
+      <title>Econ 8100 (PhD Micro)</title>
+      <link>https://gregleo-econ.github.io/teaching/econ8100/</link>
+      <pubDate>Sun, 31 Jan 2021 21:46:17 -0600</pubDate>
+      
+      <guid>https://gregleo-econ.github.io/teaching/econ8100/</guid>
+      <description>Intro This is the course website for Vanderbilt Economics 8100. This is the first course of the PhD microeconomics core sequence. The course will cover the fundamentals of consumer theory, theory of the firm, and simple markets in partial equilibrium. This page will be continuously updated throughout the semester. Please check it on a regular basis. Consider subscribing to changes using a service such as Visual Ping or Wachete.
+Textbook(s) Main textbook: *Advanced Microeconomic Theory*, Geoffrey Jehle and Philip Reny.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Greg Leo</title>
+    <link>https://gregleo-econ.github.io/posts/</link>
+    <description>Recent content in Posts on Greg Leo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 -0600</lastBuildDate><atom:link href="https://gregleo-econ.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Webpage</title>
+      <link>https://gregleo-econ.github.io/posts/test-post/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://gregleo-econ.github.io/posts/test-post/</guid>
+      <description>Welcome Welcome to my new website! This website uses the Hugo static site builder. All pages and posts are exported from Org-mode files using ox-hugo. The theme is hugo-theme-console by Marcin Mierzejewski.
+Since the page is written entirely in structured org-mode files using markdown, it should be much easier to maintain.</description>
+    </item>
+    
+  </channel>
+</rss>
